@@ -31,37 +31,37 @@ function pressAnimation(currentKey){
 function seperate(note){
   switch(note){
     case "z":
-      playNote('c');
+      playNote('C');
       pressAnimation('c');
       break;
 
     case "x":
-      playNote('d');
+      playNote('D');
       pressAnimation('d');
       break;
 
     case "c":
-      playNote('e');
+      playNote('E');
       pressAnimation('e');
       break;
 
     case "v":
-      playNote('f');
+      playNote('F');
       pressAnimation('f');
       break;
 
     case "b":
-      playNote('g');
+      playNote('G');
       pressAnimation('g');
       break;
 
     case "n":
-      playNote('a');
+      playNote('A');
       pressAnimation('a');
       break;
 
     case "m":
-      playNote('b');
+      playNote('B');
       pressAnimation('b');
       break;
 
